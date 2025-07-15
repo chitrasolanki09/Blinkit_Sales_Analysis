@@ -4,7 +4,10 @@ This project presents a complete sales analysis of Blinkit using Excel. From raw
 ---
 
 ## ✅ Project Objectives
-![Blinkit Dashboard](![Uploading Blinkit_project_objective.png…])
+![Blinkit Objective](<img width="1024" height="1536" alt="Blinkit_project_objective" src="https://github.com/user-attachments/assets/8f587585-0da5-4d35-9b07-a79cec2e5dc1" />
+
+## Dashboard
+![Blinkit Dashboard](<img width="1334" height="649" alt="Blinkit project dashboard" src="https://github.com/user-attachments/assets/fbe120c9-8332-4828-8588-5bed7ef27674" />
 
 ---
 
